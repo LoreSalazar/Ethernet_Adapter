@@ -1,0 +1,360 @@
+Removed Pin From Net: NetName=GND Pin=J1-15
+Added Component: Designator=C1(Capacitor 0603)
+Added Component: Designator=C2(Capacitor 0402)
+Added Component: Designator=C3(Capacitor 0402)
+Added Component: Designator=C4(Capacitor 0402)
+Added Component: Designator=C5(Capacitor 0603)
+Added Component: Designator=C6(Capacitor 0402)
+Added Component: Designator=C7(Capacitor 0402)
+Added Component: Designator=C8(Capacitor 0402)
+Added Component: Designator=C9(Capacitor 0402)
+Added Component: Designator=C10(Capacitor 0402)
+Added Component: Designator=C11(Capacitor 0402)
+Added Component: Designator=C12(Capacitor 0402)
+Added Component: Designator=C13(Capacitor 0402)
+Added Component: Designator=C14(Capacitor 0402)
+Added Component: Designator=C15(Capacitor 0402)
+Added Component: Designator=C16(Capacitor 0402)
+Added Component: Designator=C17(Capacitor 0402)
+Added Component: Designator=C18(Capacitor 0402)
+Added Component: Designator=C19(Capacitor 0402)
+Added Component: Designator=C20(Capacitor 0402)
+Added Component: Designator=C21(Capacitor 0402)
+Added Component: Designator=C22(Capacitor 0402)
+Added Component: Designator=C23(Capacitor 0402)
+Added Component: Designator=C24(Capacitor 0402)
+Added Component: Designator=C25(Capacitor 0402)
+Added Component: Designator=C26(Capacitor 0402)
+Added Component: Designator=C27(Capacitor 0402)
+Added Component: Designator=C28(Capacitor 0402)
+Added Component: Designator=C29(Capacitor 0402)
+Added Component: Designator=C30(Capacitor 0402)
+Added Component: Designator=C31(Capacitor 0402)
+Added Component: Designator=C32(Capacitor 0402)
+Added Component: Designator=C33(Capacitor 0402)
+Added Component: Designator=C34(Capacitor 0402)
+Added Component: Designator=C35(Capacitor 0402)
+Added Component: Designator=D1(ESD7008MUTAG)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD7008-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD7008MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD7008MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD7008MUTAG?qs=Gud3nhECO%2Fs1qvAxYTTX5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_LSQN_A201212_TAY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSQNA201212T4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND_LSQN_A201212_TAY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSQNA201212T4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistencia 0402)
+Added Component: Designator=R2(Resistencia 0402)
+Added Component: Designator=R3(Resistencia 0402)
+Added Component: Designator=R4(Resistencia 0402)
+Added Component: Designator=R5(Resistencia 0402)
+Added Component: Designator=R6(Resistencia 0402)
+Added Component: Designator=R7(Resistencia 0402)
+Added Component: Designator=R8(Resistencia 0402)
+Added Component: Designator=R9(Resistencia 0402)
+Added Component: Designator=R10(Resistencia 0402)
+Added Component: Designator=R11(Resistencia 0402)
+Added Component: Designator=R12(Resistencia 0402)
+Added Component: Designator=R13(Resistencia 0402)
+Added Component: Designator=R14(Resistencia 0402)
+Added Component: Designator=U3(DDC0006A_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV62568PDDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Power Management"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_SXT32411BB17-25.000MT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Suntsu Electronics, Inc'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SXT32411BB17-25.000MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+3V3 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+3V3 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=+3V3 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=+3V3 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+3V3 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=+3V3 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-6
+Added Pin To Net: NetName=GND Pin=D1-9
+Added Pin To Net: NetName=GND Pin=D1-13
+Added Pin To Net: NetName=GND Pin=D1-15
+Added Pin To Net: NetName=GND Pin=D1-17
+Added Pin To Net: NetName=+3V3 Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-SH1
+Added Pin To Net: NetName=GND Pin=J2-SH2
+Added Pin To Net: NetName=+3V3 Pin=L2-1
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=+3V3 Pin=U1-14
+Added Pin To Net: NetName=+3V3 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-2
+Change Net Name : Old Net Name=+3V3 New Net Name=VDD3_REG
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=TR0_P
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=TR0_N
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=TR1_P
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=TR2_P
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=TR2_N
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=TR1_N
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=TR3_P
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=TR3_N
+Change Net Name : Old Net Name=NetU1_17 New Net Name=EED1
+Change Net Name : Old Net Name=NetU1_18 New Net Name=EED0
+Change Net Name : Old Net Name=NetU1_19 New Net Name=EEDCLK
+Added Pin To Net: NetName=+VBUSF Pin=C1-2
+Added Pin To Net: NetName=+VBUSF Pin=C2-2
+Added Pin To Net: NetName=+VBUSF Pin=C25-2
+Added Pin To Net: NetName=+VBUSF Pin=R4-1
+Added Pin To Net: NetName=+VBUSF Pin=U3-1
+Added Pin To Net: NetName=+VBUSF Pin=U3-4
+Added Net: Name=+VBUSF
+Added Pin To Net: NetName=+VBUS Pin=C26-2
+Added Pin To Net: NetName=+VBUS Pin=D1-1
+Added Pin To Net: NetName=+VBUS Pin=D1-2
+Added Pin To Net: NetName=+VBUS Pin=J2-1
+Added Pin To Net: NetName=+VBUS Pin=R4-2
+Added Net: Name=+VBUS
+Added Pin To Net: NetName=EECS Pin=R14-2
+Added Pin To Net: NetName=EECS Pin=U1-16
+Added Pin To Net: NetName=EECS Pin=U2-1
+Added Net: Name=EECS
+Added Pin To Net: NetName=LED2 Pin=J1-12
+Added Pin To Net: NetName=LED2 Pin=U1-24
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=J1-14
+Added Pin To Net: NetName=LED3 Pin=U1-33
+Added Net: Name=LED3
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=NetC3_1 Pin=U3-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=U1-28
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=U1-29
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=U1-48
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=R6-1
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_13 Pin=R7-1
+Added Net: Name=NetJ1_13
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=U3-3
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-23
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-47
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-37
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U1-34
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U2-6
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=PME_CLEAR Pin=R12-2
+Added Pin To Net: NetName=PME_CLEAR Pin=U1-35
+Added Net: Name=PME_CLEAR
+Added Pin To Net: NetName=SW_FB Pin=C14-2
+Added Pin To Net: NetName=SW_FB Pin=C15-2
+Added Pin To Net: NetName=SW_FB Pin=C16-2
+Added Pin To Net: NetName=SW_FB Pin=C17-2
+Added Pin To Net: NetName=SW_FB Pin=L1-1
+Added Pin To Net: NetName=SW_FB Pin=R1-1
+Added Pin To Net: NetName=SW_FB Pin=U1-15
+Added Pin To Net: NetName=SW_FB Pin=U1-21
+Added Pin To Net: NetName=SW_FB Pin=U1-42
+Added Net: Name=SW_FB
+Added Pin To Net: NetName=SW_OUT Pin=L1-2
+Added Pin To Net: NetName=SW_OUT Pin=U1-13
+Added Net: Name=SW_OUT
+Added Pin To Net: NetName=USB_D_N Pin=C29-2
+Added Pin To Net: NetName=USB_D_N Pin=D1-8
+Added Pin To Net: NetName=USB_D_N Pin=D1-11
+Added Pin To Net: NetName=USB_D_N Pin=J2-2
+Added Pin To Net: NetName=USB_D_N Pin=J2-9
+Added Pin To Net: NetName=USB_D_N Pin=U1-27
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=D1-10
+Added Pin To Net: NetName=USB_D_P Pin=J2-3
+Added Pin To Net: NetName=USB_D_P Pin=U1-26
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=USB_RX_N Pin=D1-4
+Added Pin To Net: NetName=USB_RX_N Pin=J2-5
+Added Pin To Net: NetName=USB_RX_N Pin=U1-31
+Added Net: Name=USB_RX_N
+Added Pin To Net: NetName=USB_RX_P Pin=D1-5
+Added Pin To Net: NetName=USB_RX_P Pin=J2-6
+Added Pin To Net: NetName=USB_RX_P Pin=U1-32
+Added Net: Name=USB_RX_P
+Added Pin To Net: NetName=USB_TX_N Pin=C28-2
+Added Pin To Net: NetName=USB_TX_N Pin=D1-7
+Added Pin To Net: NetName=USB_TX_N Pin=J2-8
+Added Net: Name=USB_TX_N
+Added Pin To Net: NetName=VDD12A Pin=C18-2
+Added Pin To Net: NetName=VDD12A Pin=C19-2
+Added Pin To Net: NetName=VDD12A Pin=C20-2
+Added Pin To Net: NetName=VDD12A Pin=R1-2
+Added Pin To Net: NetName=VDD12A Pin=U1-25
+Added Pin To Net: NetName=VDD12A Pin=U1-30
+Added Pin To Net: NetName=VDD12A Pin=U1-44
+Added Net: Name=VDD12A
+Added Pin To Net: NetName=VDD25_REG Pin=C9-2
+Added Pin To Net: NetName=VDD25_REG Pin=C10-2
+Added Pin To Net: NetName=VDD25_REG Pin=C11-2
+Added Pin To Net: NetName=VDD25_REG Pin=C12-2
+Added Pin To Net: NetName=VDD25_REG Pin=C13-2
+Added Pin To Net: NetName=VDD25_REG Pin=U1-3
+Added Pin To Net: NetName=VDD25_REG Pin=U1-6
+Added Pin To Net: NetName=VDD25_REG Pin=U1-9
+Added Pin To Net: NetName=VDD25_REG Pin=U1-12
+Added Pin To Net: NetName=VDD25_REG Pin=U1-45
+Added Net: Name=VDD25_REG
+Added Pin To Net: NetName=XI Pin=C34-2
+Added Pin To Net: NetName=XI Pin=U1-40
+Added Pin To Net: NetName=XI Pin=Y1-3
+Added Net: Name=XI
+Added Pin To Net: NetName=XO Pin=C35-2
+Added Pin To Net: NetName=XO Pin=U1-41
+Added Pin To Net: NetName=XO Pin=Y1-1
+Added Net: Name=XO
+Added Differential Pair: Name=TR0
+Added Differential Pair: Name=TR1
+Added Differential Pair: Name=TR2
+Added Differential Pair: Name=TR3
+Added Differential Pair: Name=USB_D
+Added Differential Pair: Name=USB_RX
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C1 22uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C2 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C3 12pF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C4 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C5 22uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C6 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C7 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C8 10uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C9 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C10 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C11 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C12 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C13 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C14 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C15 22uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C16 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C17 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C18 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C19 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C20 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C21 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C22 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C23 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C24 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C25 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C26 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C27 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C28 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C29 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C30 220pF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C31 220pF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C32 1uF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C33 100nF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C34 16pF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C35 16pF
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component D1 ESD7008MUTAG
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component L1 LSQNA201212T4R7M
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component L2 LSQNA201212T4R7M
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R1 0
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R2 54.2K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R3 12K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R4 0
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R5 10K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R6 220
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R7 220
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R8 1K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R9 1K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R10 12K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R11 10K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R12 1K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R13 10K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component R14 10K
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component U3 TLV62568PDDCR
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component Y1 SXT32411BB17-25.000MT
+Added Class: Name=90_OHM_DIFF
+Added Class: Name=100_OHM_DIFF

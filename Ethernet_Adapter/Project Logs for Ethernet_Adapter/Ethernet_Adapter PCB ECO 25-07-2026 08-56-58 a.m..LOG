@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_TX_N Pin=D1-7
+Removed Pin From Net: NetName=+VBUS Pin=D1-10
+Added Pin To Net: NetName=+VBUS Pin=D1-7
+Added Pin To Net: NetName=USB_TX_N Pin=D1-10
+Added Member To Class: ClassName=Ethernet_Adapter Member=Component C22 100nF

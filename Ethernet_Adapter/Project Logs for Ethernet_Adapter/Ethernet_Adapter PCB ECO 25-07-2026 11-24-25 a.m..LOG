@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_D_P Pin=D1-6
+Removed Pin From Net: NetName=USB_D_N Pin=D1-7
+Removed Pin From Net: NetName=+VBUS Pin=D1-8
+Added Pin To Net: NetName=+VBUS Pin=D1-6
+Added Pin To Net: NetName=USB_D_P Pin=D1-7
+Added Pin To Net: NetName=USB_D_N Pin=D1-8
